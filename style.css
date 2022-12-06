@@ -1,0 +1,118 @@
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+div{
+    margin: 8px;
+    width: 200px;
+    height: 200px;
+    border: 1px solid ;
+    background-color: aqua;  
+    
+}
+.box1:hover{
+    background-color: darkorange;
+}
+.box2:hover{
+    
+}
+.box3:hover{
+background: #000;
+}
+
+.box4:hover{
+    background: #999;
+    
+}
+
+.box5:hover{
+    background: #333; 
+}
+
+.box6:hover{
+    background: #222;
+}
+
+.box7:hover{
+    background: #111;
+}
+
+.box8:hover{
+    background: #234;
+}
+
+.box9:hover{
+    background: #321;
+}
+
+.box10:hover{
+    background: #544;
+}
+
+.box11:hover{
+    
+}
+
+.box12:hover{
+    
+}
+
+.box13:hover{
+    
+}
+
+.box14:hover{
+    
+}
+
+.box15:hover{
+    
+}
+
+.box16:hover{
+    
+}
+
+.box17:hover{
+    
+}
+
+.box18:hover{
+    
+}
+
+.box19:hover{
+    
+}
+
+.box20:hover{
+    
+}
+
+.box21:hover{
+    
+}
+
+.box22:hover{
+    
+}
+
+.box23:hover{
+    
+}
+
+.box24:hover{
+    
+}
+
+.box25:hover{
+    
+}
+
+body{
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+}
